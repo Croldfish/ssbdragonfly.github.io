@@ -1,4 +1,4 @@
-# sWhy does this exsist?
+# Why does this exsist?
 because i felt like it
 
 # fork
